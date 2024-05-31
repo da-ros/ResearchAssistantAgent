@@ -1,0 +1,7 @@
+resenv
+./resenv
+/resenv
+.env
+/.env
+./.env
+__pycache__

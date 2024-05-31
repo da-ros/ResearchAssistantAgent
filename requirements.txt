@@ -1,0 +1,10 @@
+langchain
+langchain_openai
+langchain-fireworks
+langchain-mongodb
+arxiv
+pymupdf
+datasets
+pymongo
+python-dotenv
+langchain_community
