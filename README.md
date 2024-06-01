@@ -19,7 +19,7 @@ The goal of this project is to build an AI research assistant capable of underst
 ## Prerequisites
 
 Before starting, ensure you have the following:
-- Python 3.8 or higher
+- Python 3.12 or higher
 - MongoDB Atlas account and cluster
 - Fireworks AI and OpenAI API keys
 - Internet connection for downloading datasets
